@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carpool</string>
+    <string name="Usuario">Ingrese su nombre de usuario</string>
+    <string name="Contraseña">Ingrese su contraseña</string>
+    <string name="BotonLog">Login</string>
+    <string name="forgot">¿Olvidaste tu contraseña?</string>
+    <string name="Errorlogin">Usuario o contraseña invalidos</string>
+    <string name="OKlogin">Ingreso datos correctos</string>
+    <string name="contrasenaerror">Contraseña incorrecta</string>
+    <string name="Welcome">Bienvenido %s</string>
+</resources>
